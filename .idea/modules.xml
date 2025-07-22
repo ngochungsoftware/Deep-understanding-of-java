@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Deep understanding of java.iml" filepath="$PROJECT_DIR$/Deep understanding of java.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javamap/javamap.iml" filepath="$PROJECT_DIR$/javamap/javamap.iml" />
     </modules>
   </component>
 </project>
